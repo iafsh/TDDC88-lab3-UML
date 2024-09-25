@@ -85,16 +85,16 @@
           <mxGeometry y="104" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="gyq0JLDCAdbeUaG6m7cD-13" value="Journey" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="250" y="220" width="160" height="122" as="geometry" />
+          <mxGeometry x="250" y="130" width="160" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="gyq0JLDCAdbeUaG6m7cD-14" value="+ startStation: String&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="gyq0JLDCAdbeUaG6m7cD-13" vertex="1">
+        <mxCell id="gyq0JLDCAdbeUaG6m7cD-14" value="+ depatureTime: int&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="gyq0JLDCAdbeUaG6m7cD-13" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="gyq0JLDCAdbeUaG6m7cD-15" value="&lt;div&gt;+ stops: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;+ endStation: String&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="gyq0JLDCAdbeUaG6m7cD-13" vertex="1">
-          <mxGeometry y="52" width="160" height="48" as="geometry" />
+        <mxCell id="gyq0JLDCAdbeUaG6m7cD-15" value="&lt;div&gt;+ arrivalTime: int&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ depatureStation: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ arrivalStation: String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;+ stops: String&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="gyq0JLDCAdbeUaG6m7cD-13" vertex="1">
+          <mxGeometry y="52" width="160" height="118" as="geometry" />
         </mxCell>
         <mxCell id="gyq0JLDCAdbeUaG6m7cD-16" value="" style="line;html=1;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="gyq0JLDCAdbeUaG6m7cD-13" vertex="1">
-          <mxGeometry y="100" width="160" height="22" as="geometry" />
+          <mxGeometry y="170" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyq0JLDCAdbeUaG6m7cD-26" value="Station" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="500" y="290" width="160" height="122" as="geometry" />
@@ -157,7 +157,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M88_UnBX2mN1VoboVKbv-5" value="1..*" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=12;fontFamily=Verdana" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="369.99647058823507" y="320" as="geometry">
+          <mxGeometry x="359.99647058823507" y="398" as="geometry">
             <mxPoint x="-23" y="44" as="offset" />
           </mxGeometry>
         </mxCell>
