@@ -146,6 +146,16 @@
             <mxPoint x="-23" y="44" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="M88_UnBX2mN1VoboVKbv-3" value="1..*" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=12;fontFamily=Verdana" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="729.9964705882351" y="550" as="geometry">
+            <mxPoint x="-23" y="44" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M88_UnBX2mN1VoboVKbv-4" value="1" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=12;fontFamily=Verdana" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="479.99647058823507" y="550" as="geometry">
+            <mxPoint x="-23" y="44" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
